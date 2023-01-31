@@ -1,5 +1,5 @@
 # README.MD
-## PySpark-ML-Project ![pyspark-logo](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/Machine-Learning.png)
+## PySpark-ML-Project ![pyspark-logo](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/PySpark%2BMLib.png)
 
 ![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/Machine-Learning.png)
 
