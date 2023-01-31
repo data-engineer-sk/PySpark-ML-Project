@@ -1,7 +1,7 @@
 # README.MD
 ## PySpark-ML-Project
 
-![ETL Process via API](https://github.com/data-engineer-sk/dataWarehouse-PostgreSQL-1/blob/main/Nasdaq%20API%20-%20ETL%20Processing.png)
+![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/testScore.file.png)
 
 ### Project Aims
 This project aims to apply the PySpark to build a linear regression machine learning model to predict the test score for the Machine Learning Test.
@@ -25,5 +25,7 @@ This system requires the following setting:
 
 ### Input File
 testScore.csv file will be uploaded for training and testing in the ML processes.
+![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/testScore.file.png)
 
 ### Output
+![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/testScore.file.png)
