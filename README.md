@@ -9,7 +9,8 @@ This project aims to apply the PySpark to build a linear regression machine lear
 ### Machine Learning Process (ML Process)
 There are 4 processes in this project
 1. Collection of Data from CSV file (no data cleaning in this time)
-2. Feature Engineering (Create a new [Independent Value] feature by using [RelectedExperience] and [StudyHour] attributes)
+2. Feature Engineering (Create a new [Independent Variable] feature by using [RelectedExperience] and [StudyHour] attributes)
+![Independent Variable](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/ML%20Results.png)
 3. Model building and Selection of ML Linear Regression Algorithm
 4. Model Evaluation
 
@@ -28,4 +29,4 @@ testScore.csv file will be uploaded for training and testing in the ML processes
 ![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/testScore.file.png)
 
 ### Output
-![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/testScore.file.png)
+![Test Score Results](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/ML%20Results.png)
