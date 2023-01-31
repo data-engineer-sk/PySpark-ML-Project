@@ -1,7 +1,7 @@
 # README.MD
 ## PySpark-ML-Project
 
-![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/testScore.file.png)
+![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/Machine-Learning.png)
 
 ### Project Aims
 This project aims to apply the PySpark to build a linear regression machine learning model to predict the test score for the Machine Learning Test.
