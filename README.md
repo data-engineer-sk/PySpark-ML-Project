@@ -9,18 +9,18 @@ This project aims to apply the PySpark to build a linear regression machine lear
 ### Machine Learning Process (ML Process)
 There are 4 processes in this project
 1. Collection of Data from CSV file (no data cleaning in this time)
-2. Feature Engineering ([RelectedExperience] and [StudyHour])
+2. Feature Engineering (Create a new [Independent Value] feature by using [RelectedExperience] and [StudyHour] attributes)
 3. Model building and Selection of ML Linear Regression Algorithm
 4. Model Evaluation
 
 ### How it works
-Write a CLI program with python.  Use the API function calls provided by Nasdaq.com to extract csv file.  Use packages such as  Pandas / Numpy to transform the data complie with the user requirement.  Store the results to the PostgreSQL / MysQL Server (Can be stored in local machine or AWS Cloud RDS) which act as a data warehouse.  Use SQL to furthur transform the data into a new data table (**Perform unit test to ensure the data are clearn to use in future.**)
+Use Juypter Note to load the **testScore.csv** file for modelling.  Use the standard machine learning technique and apply the **linear regression** model to test the data, then predict the results for by another set of test data. 
 ** This project has no model deployment at the end.  Will be improved in future
 
 ### System Requirement
 This system requires the following setting:
 - Python 3.10 or above
-- PySpark 
+- PySpark 3.3.1
 - Juypter Notebook
 
 ### Input File
