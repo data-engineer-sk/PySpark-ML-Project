@@ -9,7 +9,7 @@ This project aims to apply the PySpark to build a linear regression machine lear
 ### Machine Learning Process (ML Process)
 There are 4 processes in this project
 1. Collection of Data from CSV file (no data cleaning in this time)
-2. Feature Engineering
+2. Feature Engineering ([RelectedExperience] and [StudyHour])
 3. Model building and Selection of ML Linear Regression Algorithm
 4. Model Evaluation
 
@@ -27,4 +27,3 @@ This system requires the following setting:
 testScore.csv file will be uploaded for training and testing in the ML processes.
 
 ### Output
-Extract the historical stock data, use the API which were provided by Nasdaq.com for processing.  Use **nasdaqdatalink.ApiConfig.api_key** to establish 
