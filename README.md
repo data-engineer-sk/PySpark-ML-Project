@@ -30,3 +30,6 @@ testScore.csv file will be uploaded for training and testing in the ML processes
 
 ### Output
 ![Test Score Results](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/ML%20Results.png)
+
+### Conclusion
+The result shows that the relationship of the test score is not depend on the new independent variable feature.  To improve the performance may collect more data for ml training and testing in future.
