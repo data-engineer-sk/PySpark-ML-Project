@@ -31,6 +31,10 @@ This system requires the following setting:
 testScore.csv file will be uploaded for training and testing in the ML processes.
 ![testScore CSV file](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/testScore.file.png)
 
+### Setup a special feature : "Independent Variable"
+## i.e. independent variables : ['RelatedExperience', 'StudyHour']
+#### Apply this feature in the ML model for training and testing
+
 ### Output
 ![Test Score Results](https://github.com/data-engineer-sk/PySpark-ML-Project/blob/main/ML%20Results.png)
 
