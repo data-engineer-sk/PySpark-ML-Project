@@ -18,7 +18,7 @@ There are 4 processes in this project
 4. Model Evaluation
 
 ### How it works
-Use Juypter Note to load the **testScore.csv** file for modelling.  Use the standard machine learning technique and apply the **linear regression** model to test the data, then predict the results for by another set of test data. 
+Use Juypter Notebook to load the **testScore.csv** file for modelling.  Use the standard machine learning technique and apply the **linear regression** model to test the data, then predict the results for by another set of test data. 
 ** This project has no model deployment at the end.  Will be improved in future
 
 ### System Requirement
